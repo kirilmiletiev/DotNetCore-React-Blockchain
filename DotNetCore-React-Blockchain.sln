@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetCore-React-Blockchain", "DotNetCore-React-Blockchain\DotNetCore-React-Blockchain.csproj", "{5E0811C8-E130-4A87-AE09-EB05785FF9C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E0811C8-E130-4A87-AE09-EB05785FF9C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E0811C8-E130-4A87-AE09-EB05785FF9C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E0811C8-E130-4A87-AE09-EB05785FF9C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E0811C8-E130-4A87-AE09-EB05785FF9C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {228D9BA6-3A99-4A82-B44B-F51DD129B336}
+	EndGlobalSection
+EndGlobal
