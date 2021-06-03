@@ -8,6 +8,7 @@
     <SpaRoot>ClientApp\</SpaRoot>
     <DefaultItemExcludes>$(DefaultItemExcludes);$(SpaRoot)node_modules\**</DefaultItemExcludes>
     <RootNamespace>DotNetCore_React_Blockchain</RootNamespace>
+    <UserSecretsId>285b9806-b2ad-4662-85cf-b95657c10c49</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
